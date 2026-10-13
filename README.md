@@ -1,6 +1,6 @@
-# P-Tech KEB
+# P-Tech Vigilance
 
-P-Tech KEB is a modular security-system suite for FiveM.
+P-Tech Vigilance is a modular security-system suite for FiveM.
 
 ## Principles
 - Each module operates independently by default.
@@ -10,9 +10,9 @@ P-Tech KEB is a modular security-system suite for FiveM.
 - Runtime dependencies must be declared per resource.
 
 ## Naming
-- Repository: `P-Tech-KEB`
-- FiveM resources: `ptech_keb_<module>`
-- Example module: `ptech_keb_security` (placeholder, not yet implemented)
+- Repository: `P-Tech-Vigilance`
+- FiveM resources: `ptech_vigilance_<module>`
+- Example module: `ptech_vigilance_security` (placeholder, not yet implemented)
 
 ## Layout
 - `docs/` — architecture, planning, and specifications
