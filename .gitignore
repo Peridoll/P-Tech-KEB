@@ -1,0 +1,13 @@
+# Local developer output
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+tmp/
+temp/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
